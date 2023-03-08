@@ -6,7 +6,7 @@ function Banner() {
     
     return  <div className="lmj-banner">
                 <img src={logo} className="lmj-logo" alt="feuille"/>
-                <h1> { mainTitle.toString() } </h1>   
+                <h1> { mainTitle.toString() } </h1> 
             </div>
 }
 
