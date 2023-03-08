@@ -2,4 +2,8 @@
     padding: 32px;
     color: white;
     background: #31b572;
+} 
+
+.ljm-cart ul {
+    list-style: none;
 }
